@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "379927435859",
+    "project_id": "fir-ecommerce-d1e71",
+    "storage_bucket": "fir-ecommerce-d1e71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379927435859:android:c0f9edcd97af71af03c4a6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379927435859-5817lumjvkq6i070fimadvemi5kgoiv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_e_commerce",
+            "certificate_hash": "1927b2663cc5ce6f6da2f4feceff9598d6b5f697"
+          }
+        },
+        {
+          "client_id": "379927435859-tpbavsr3810k9d39cdjfeitni3pjt33d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3MPAsoh6dBphJ0p30bquzsrHh_8TjjM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379927435859-tpbavsr3810k9d39cdjfeitni3pjt33d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379927435859:android:2dacd1457d84ed6203c4a6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379927435859-tpbavsr3810k9d39cdjfeitni3pjt33d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3MPAsoh6dBphJ0p30bquzsrHh_8TjjM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379927435859-tpbavsr3810k9d39cdjfeitni3pjt33d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
